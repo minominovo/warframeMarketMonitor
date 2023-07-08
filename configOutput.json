@@ -1,0 +1,12 @@
+{
+	"type":	"riven",
+	"polarity":	"any",
+	"sort_by":	"price_asc",
+	"ban_wpns":	[],
+	"positive_stats":	["critical_chance", "critical_damage", "multishot"],
+	"negative_stats":	"has",
+	"weapon_url_name":	"NULL",
+	"range_money_min":	-1,
+	"range_money_max":	-1,
+	"range_amount":	5
+}
